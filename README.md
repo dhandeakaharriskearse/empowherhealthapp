@@ -55,7 +55,6 @@ The system follows a client-server architecture, with the React Native frontend 
 ### Testing:
 - **Unit Testing**: Both frontend (React Native components and utilities) and backend (Kotlin classes and functions) were extensively unit tested using Jest and JUnit, respectively.
 - **Integration Testing**: Integration testing, which verifies the interaction between frontend and backend components, has not yet been completed due to time constraints. This phase of testing will be prioritized in the final project iteration to ensure proper data exchange and functionality across the entire system.
-- **User Acceptance Testing**: User acceptance testing was performed with stakeholders and end-users to validate the overall usability and effectiveness of the application. Feedback from these tests will inform further development and refinement of the system.
 
 ### Deployment:
 - The project was deployed manually to local development environments for testing and to cloud servers (e.g., AWS, Google Cloud Platform) for production.
