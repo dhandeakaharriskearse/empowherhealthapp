@@ -16,10 +16,10 @@ Time spent: **X** hours spent in total
 
 The following functionality is completed:
 
-- [ ] **Mentrual Cycle / Pregnancy tracker**
-- [ ] **Calendar**
+- [ ] **Menstrual Cycle / Pregnancy tracker**
+- [X] **Calendar**
 - [ ] **Nutrition Diary**
-- [ ] **GPT feature - provides insight on health related questions**
+- [X] **GPT feature - provides insight on health related questions**
 
 The following **stretch goal** features are implemented:
 
