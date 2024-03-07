@@ -1,6 +1,6 @@
 # Product Description: Balanced
 
-**Created by:** G Girsea Martinez-Rosas  
+**Created by:** Girsea Martinez-Rosas  
 **Created time:**  
 **Tags:** Submitted to Baddies in Tech Women’s Rights Buildathon  
 
@@ -20,6 +20,7 @@
 [Coding & Technical Specifications](#coding--technical-specifications)
 [Target Audience and Personas](#target-audience-and-personas)
 [Benefits of Balanced to Users](#benefits-of-balanced-to-users)
+[Marketing](#marketing)
 [Works Cited](#works-cited)
 
 ## Problem Statement
@@ -32,7 +33,7 @@ Balanced is an app built to help women over 35 take control of their reproductiv
 
 ## Impact Assessment 
 
-[header](/workspace/empowherhealthapp/documentation/Product_Description.md)
+![image](/documentation/header.jpg)
 
 Information is often a pivotal gateway to healthcare access, acting as both a map and a key for patients navigating their health decisions and care pathways. Yet, for Black and Latinx women, this information often seems to be locked behind doors to which they are not given the key. The research underscores a critical gap in health literacy and awareness that disproportionately affects these communities. Health organizations strive to elevate public understanding of various reproductive health issues, but the distribution and accessibility of this information are uneven. Cultural and linguistic barriers, along with systemic healthcare disparities, complicate the picture further, preventing these women from accessing the comprehensive and culturally competent information they need. This gap in information not only impedes their ability to make informed health decisions but also poses a significant barrier to accessing necessary healthcare services, ultimately affecting their overall well-being.
 
@@ -52,9 +53,7 @@ Balanced, with its innovative approach to consolidating health data, is a beacon
 
 **Balanced App Walkthrough Video:** 
 
-We have created a video to show you the magic of Balanced, including an overview of the features.
-
-[YouTube Video](https://www.youtube.com/watch?v=5-p8HyiRdfI&t=15s&ab_channel=Toni-LeeMaitland)
+[We have created a video to show you the magic of Balanced, including an overview of the features.](https://www.youtube.com/watch?v=5-p8HyiRdfI&t=15s&ab_channel=Toni-LeeMaitland)
 
 **Data Integration:** Balance leverages API (Application Programming Interface) integration to aggregate data from various health-related applications (like Flo or Health) and EHR (Electronic Health Records) systems (via potential partnerships with companies like Epic). This centralized data aggregation approach allows users to have a holistic view of their health metrics in a single interface.
 
@@ -91,18 +90,16 @@ Ultimately, our users grapple with the fragmented landscape of health data sprea
 
 Enter Balance, the app that brings nutritional and fitness tracking, menstrual cycle monitoring, and medical records together in one place. By leveraging AI, Balance not only consolidates critical health data but also tailors recommendations, aiding women like Shannon and Leslie in navigating their reproductive health with confidence and ease. It transforms the overwhelming task of tracking nutritional intake and physical activity into a manageable, joyful journey, ensuring that every user can stay organized, informed, and motivated. Balance embodies the supportive companion on the health journey of today’s woman, enabling them to reclaim control and joy over their health.
 
-[Screenshot 1](/workspace/empowherhealthapp/documentation/screenshot1.jpg)
-[Screenshot 2](/workspace/empowherhealthapp/documentation/screenshot2.jpg)
+![image](/documentation/screenshot1.jpg)
+![image](/documentation/screenshot2.jpg)
 
 ## Benefits of Balanced to Users
 
-[Benefits](/workspace/empowherhealthapp/documentation/benefits.jpg)
+![image](/documentation/benefits.jpg)
 
 ## Marketing
 
-We have created a description of our go-to-market strategy. That description can be found here in written format:
-
-[Marketing](BiTBuildathon_Marketing.md)
+We have created a description of our go-to-market strategy. [That description can be found here in written format.](BiTBuildathon_Marketing.md)
 
 ## Works Cited
 
