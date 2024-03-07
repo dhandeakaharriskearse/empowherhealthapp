@@ -7,10 +7,21 @@ Submitted by:
 * **Toni-Lee Maitland** - Frontend Developer
 * **Dhandeaka Harris-Kearse** - Backend Developer
 
+## More Documentation
+[Marketing Strategy](/workspace/empowherhealthapp/documentation/BiTBuildathon_Marketing.md)
+[Product Description](/workspace/empowherhealthapp/documentation/Product_Description.md)
+
+## Table of Contents
+[About Us](#about-us)
+[Key Features](#key-features)
+[Technical Documentation](#technical-documentation)
+[Notes](#notes)
+
+## About Us
+
 **EmpowHer Health** is an app to empower women to take control of their reproductive health through syncing nutritional and fitness habits to their monthly cycles. EmpowHer will feature tools to allow users to log their meals, workouts, cycle, and any symptoms. Additionally, it will provide suggestions tailored to each users’ menstrual cycles.
 EmpowHer will also feature an AI component that allows the users to ask specific questions related to their reproductive health. This component will empower users to prepare effectively for doctors’ appointments allowing them to better advocate for themselves. Our goal is to provide women with the ultimate toolkit to help understand and optimize their reproductive health.
 
-Time spent: **X** hours spent in total
 
 ## Key Features
 
@@ -20,14 +31,6 @@ The following functionality is completed:
 - [X] **Calendar**
 - [ ] **Nutrition Diary**
 - [X] **GPT feature - provides insight on health related questions**
-
-The following **stretch goal** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
-The following **stretch goal** features are not implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Technical Documentation
 
