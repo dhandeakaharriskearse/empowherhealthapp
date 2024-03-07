@@ -8,8 +8,8 @@ Submitted by:
 * **Dhandeaka Harris-Kearse** - Backend Developer
 
 ## More Documentation
-[Marketing Strategy](/workspace/empowherhealthapp/documentation/BiTBuildathon_Marketing.md)
-[Product Description](/workspace/empowherhealthapp/documentation/Product_Description.md)
+[Marketing Strategy](/documentation/BiTBuildathon_Marketing.md)
+[Product ](/documentation/Product_Description.md)
 
 ## Table of Contents
 [About Us](#about-us)
