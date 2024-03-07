@@ -9,7 +9,7 @@ Submitted by:
 
 ## More Documentation
 [Marketing Strategy](/documentation/BiTBuildathon_Marketing.md)
-[Product ](/documentation/Product_Description.md)
+[Product Description](/documentation/Product_Description.md)
 
 ## Table of Contents
 [About Us](#about-us)
