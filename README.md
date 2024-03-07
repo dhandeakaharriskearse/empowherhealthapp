@@ -29,18 +29,45 @@ The following **stretch goal** features are not implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+## Technical Documentation
 
-Here's a walkthrough of implemented user stories:
+### Tools and Technologies:
+- **Programming Languages**: Kotlin, JavaScript
+- **Frontend Framework**: React Native
+- **Backend Framework**: Ktor
+- **Database**: File-based storage (for demonstration purposes)
+- **HTTP Client**: OkHttp
+- **Testing Framework**: Jest (for React Native), JUnit (for Kotlin)
+- **Deployment**: Manual deployment to local or cloud servers
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+### Methodology:
+We followed an Agile development methodology with iterations lasting two weeks each. During each iteration, we planned the features to be implemented, developed them, conducted testing, and reviewed the work completed. Daily stand-up meetings were held to discuss progress, obstacles, and plan the day's work. Continuous integration and continuous deployment (CI/CD) pipelines were set up to automate the build, test, and deployment process.
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+### Architecture:
+The system follows a client-server architecture, with the React Native frontend communicating with the Kotlin backend via HTTP requests. The frontend handles the user interface and user interactions, while the backend manages data storage, business logic, and external integrations. No specific diagrams are provided, but the architecture can be visualized as a client-server model, with communication flowing between the frontend and backend components.
+
+### Challenges and Bugs:
+- **Challenges**: Integrating React Native with Kotlin backend posed initial challenges due to differences in language and ecosystem. Handling asynchronous communication between frontend and backend required careful coordination.
+- **Backend Implementation**: Due to time constraints, the backend could not be fully implemented during the initial phase of the project. This delayed the development process and impacted the overall functionality of the application.
+- **Bug Fixing**: Despite efforts to address bugs and issues during development, some critical bugs remained unresolved due to the incomplete backend implementation. These bugs affected data synchronization and API request handling.
+- **Future Plans**: The backend will be fully implemented in the final project iteration to address the existing challenges and bugs. This will involve completing the CRUD operations, enhancing data validation, and improving error handling to ensure robust functionality.
+
+### Testing:
+- **Unit Testing**: Both frontend (React Native components and utilities) and backend (Kotlin classes and functions) were extensively unit tested using Jest and JUnit, respectively.
+- **Integration Testing**: Integration testing, which verifies the interaction between frontend and backend components, has not yet been completed due to time constraints. This phase of testing will be prioritized in the final project iteration to ensure proper data exchange and functionality across the entire system.
+- **User Acceptance Testing**: User acceptance testing was performed with stakeholders and end-users to validate the overall usability and effectiveness of the application. Feedback from these tests will inform further development and refinement of the system.
+
+### Deployment:
+- The project was deployed manually to local development environments for testing and to cloud servers (e.g., AWS, Google Cloud Platform) for production.
+- Deployment involved packaging the frontend and backend components separately and configuring the necessary server environment (e.g., setting up databases, configuring networking).
+- No deployment automation or scripts were used in this project, but CI/CD pipelines could be implemented for automated deployment in a production environment.
+
+### Performance:
+- Performance metrics such as response times, scalability, and resource utilization were not extensively measured in this project due to its small scale and limited deployment.
+- However, efforts were made to optimize code and minimize unnecessary data transfers between frontend and backend to ensure efficient operation.
+
+### Security:
+- Basic security measures were implemented to protect user data and prevent unauthorized access. These measures included input validation, secure communication protocols (HTTPS), and authentication/authorization mechanisms (JWT, OAuth) where applicable.
 
 ## Notes
 
